@@ -9,6 +9,7 @@ body{
 .tol{text-align: left;}
 .work-img{
     max-width: 100%;
+    border-radius: 20px;
 }
 
 .blag{
