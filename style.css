@@ -1,0 +1,136 @@
+*{
+    letter-spacing: 0.5px;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+}
+body{
+    background: #343434;
+    color: #eee;
+}
+.tol{text-align: left;}
+.work-img{
+    max-width: 100%;
+}
+
+.blag{
+    max-width: 70%;
+    margin-top: 5px;
+}
+
+.app{
+    background: #343434;
+    padding: 10px;
+    /*margin-top: 10px;*/
+    text-align: center;
+}
+
+.line{
+    max-width: 150px;
+    height: 5px;
+    background: #404040;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px; 
+    margin-bottom: 10px; 
+}
+
+.logo{
+    max-width: 100px;
+    min-height: 100px;
+}
+header h1{
+    font-size: 25px;
+    font-style: bold;
+}
+svg{
+    margin: 0;
+}
+.row{
+    margin-top: 10px;
+}
+.user-img{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+}
+.user-img{}
+.user-text{color: #eee}
+
+.user-text p{
+    font-size: 14px;
+    margin: 0;
+    color: #eee;
+}
+.r{
+    transform: rotate(180deg);
+}
+.about{
+    margin: 20px;
+    background: #272727;
+    box-shadow: 0 0 5px #272727;
+}
+a{
+    text-decoration: none;
+}
+.buy{
+    display: block;
+    background: #FFE459;
+    color: #343434;
+    max-width: 700px;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+.buy:hover{
+    color: #eee;
+    background: #151515;
+}
+.about-p{
+    font-size: 20px;
+    float: left;
+    background: #151515;
+    color: #eee;
+    height: 100%;
+    width: 100%;
+    border-radius: 20px;
+}
+.about-p span{
+    display: block;
+    transform: translateY(50%);
+    margin: 10px;
+}
+.plusses li, .plusses .an{
+    width: 100%;
+    padding: 30px;
+    background: orange;
+    border-radius: 50px;
+    margin-top: 10px;
+    color: #272727
+}
+.plusses .an{
+    background: orange;
+}
+.cena{
+    background: #e8b53d;
+    display: inline-block;
+    padding: 10px;
+    width: 50%;
+    border-radius: 5px;
+    color: #272727
+}
+.etaps{
+    background: #272727;
+    color: #eee;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+.etaps-element{
+    background: #151515;
+    padding: 5px;
+    border-radius: 20px;
+    margin: 5px;
+}
